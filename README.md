@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <div align="center">Hi, I'm Praveen! <img src="https://slackmojis.com/emojis/74744-huh/download" width="25"/></div>
+# <div align="center"> I'm Praveen! <img src="https://slackmojis.com/emojis/74744-huh/download" width="25"/></div>
 
 
 
 <p align="center">
   <samp>
-    <a href="https://www.rishidha.xyz/">portfolio</a> .
-    <a href="https://www.linkedin.com/in/rishidha-addanki/">linkedin</a> .
-    <a href="https://leetcode.com/u/rishidhaa/">leetcode</a> .
-    <a href="https://www.codechef.com/users/rishidhaa">codechef</a> .
-    <a href="mailto:rishidha04@gmail.com">email</a> <img src="https://media.giphy.com/media/4QFArMJ28mCdlcsRyq/giphy.gif" width="40">
+    <a href="https://portfolio-gamma-dusky-7l91dxhooz.vercel.app/">portfolio</a> .
+    <a href="https://www.linkedin.com/in/praveen-ramisetti/">linkedin</a> .
+    <a href="https://leetcode.com">leetcode</a> .
+    <a href="https://www.codechef.com/users/many_bees_97">codechef</a> .
+    <a href="mailto:praveen_ramisetti@srmap.edu.in">email</a> <img src="https://media.giphy.com/media/4QFArMJ28mCdlcsRyq/giphy.gif" width="40">
   </samp>
 </p>
 
