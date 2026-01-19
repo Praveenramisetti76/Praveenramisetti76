@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <!-- <a href="https://leetcode.com">leetcode</a> . -->
     <a href="https://www.codechef.com/users/many_bees_97">codechef</a> .
     <!-- <a href="https://x.com">Twitter(X)</a> . -->
-    <a href="mailto:praveen_ramisetti@srmap.edu.in">email</a>
+    <!-- <a href="mailto:praveen_ramisetti@srmap.edu.in">email</a> -->
   </samp>
 </p>
 
