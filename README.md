@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Praveenramisetti76/Praveenramisetti76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <div align="center"> I'm Praveen! <img src="https://slackmojis.com/emojis/74744-huh/download" width="25"/></div>
+<h2> Hi, I'm Praveen! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><em>CS Grad at SRMAP, More of me <a href="https://www.linkedin.com/in/praveen-ramisetti/">here</a></em></p>
+</p>
 
 
 
@@ -22,9 +24,9 @@ Here are some ideas to get you started:
   <samp>
     <a href="https://portfolio-gamma-dusky-7l91dxhooz.vercel.app/">portfolio</a> .
     <a href="https://www.linkedin.com/in/praveen-ramisetti/">linkedin</a> .
-    <a href="https://leetcode.com">leetcode</a> .
+    <!-- <a href="https://leetcode.com">leetcode</a> . -->
     <a href="https://www.codechef.com/users/many_bees_97">codechef</a> .
-    <a href="https://x.com">Twitter(X)</a> .
+    <!-- <a href="https://x.com">Twitter(X)</a> . -->
     <a href="mailto:praveen_ramisetti@srmap.edu.in">email</a>
   </samp>
 </p>
