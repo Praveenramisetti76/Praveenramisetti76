@@ -16,11 +16,11 @@
 
 ### About
 
-Final-year Computer Science student with interests in data engineering, full-stack development, and machine learning. Internship experience at 
-Infosys Springboard 6.0
-EduBot Pvt. Ltd.
-and Addwise Innovation Technologies.
-Open Source contributions
+Final-year Computer Science student with interests in data engineering, full-stack development, and machine learning. Internship experience at ||
+Infosys Springboard 6.0 ||
+EduBot Pvt. Ltd. ||
+and Addwise Innovation Technologies. ||
+Open Source contributions(Gssoc'25)||
 
 ---
 
