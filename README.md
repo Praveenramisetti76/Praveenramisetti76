@@ -32,24 +32,17 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Praveenramisetti76&show_icons=true&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenramisetti76&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
-
-## 🔥 GitHub Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Praveenramisetti76&theme=tokyonight&hide_border=false"/>
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Praveenramisetti76&theme=tokyonight&row=1&column=6"/>
@@ -57,7 +50,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 👀 Profile Views
+##  Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Praveenramisetti76&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
@@ -65,7 +58,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,cpp,git,github,vscode" />
