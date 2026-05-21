@@ -9,12 +9,18 @@
   <a href="https://leetcode.com/u/praveen_ram76/">LeetCode</a> &nbsp;·&nbsp;
   <a href="https://github.com/Praveenramisetti76">GitHub</a>
 </p>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Praveenramisetti76&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
+</p>
 ---
 
 ### About
 
-Final-year Computer Science student with interests in data engineering, full-stack development, and machine learning. Internship experience at Infosys, EduBot Pvt. Ltd., and Addwise Innovation Technologies. Currently volunteering as a content writer for **Pehchaan The Street School**, an NGO providing education to underserved students across Delhi-NCR.
+Final-year Computer Science student with interests in data engineering, full-stack development, and machine learning. Internship experience at 
+Infosys Springboard 6.0
+EduBot Pvt. Ltd.
+and Addwise Innovation Technologies.
+Open Source contributions
 
 ---
 
@@ -25,9 +31,6 @@ Final-year Computer Science student with interests in data engineering, full-sta
 ---
 
 ### GitHub Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Praveenramisetti76&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Praveenramisetti76&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
