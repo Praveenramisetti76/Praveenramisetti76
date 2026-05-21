@@ -25,19 +25,12 @@ Final-year Computer Science student with interests in data engineering, full-sta
 ---
 
 ### GitHub Stats
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Praveenramisetti76&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenramisetti76&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenramisetti76&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenramisetti76&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Praveenramisetti76&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Praveenramisetti76&label=Profile+Views&color=0e75b6&style=flat"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenramisetti76&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 </p>
