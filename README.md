@@ -9,31 +9,53 @@
   <a href="https://leetcode.com/u/praveen_ram76/">LeetCode</a> &nbsp;·&nbsp;
   <a href="https://github.com/Praveenramisetti76">GitHub</a>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Praveenramisetti76&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
-</p>
----
 
 ### About
+ 
+Final-year Computer Science student with interests in Full Stack Development  AIML Data Science.
+ 
+**Experience**
+ 
+| Organization | Role |
+|---|---|
+| Moody's Coorporation | Technology Intern  |
+| Infosys Springboard 6.0 | Web Developer-Team Lead |
+| EduBot Pvt. Ltd. | Project Intern |
+| Addwise Innovation Technologies | Project Intern |
+| GSSoC '25 | Campus Ambassodor & Contributor |
+ 
 
-Final-year Computer Science student with interests in data engineering, full-stack development, and machine learning. Internship experience at ||
-Infosys Springboard 6.0 ||
-EduBot Pvt. Ltd. ||
-and Addwise Innovation Technologies. ||
-Open Source contributions(Gssoc'25)||
-
----
-
-### Tech Stack
-
-`HTML/CSS` `JavaScript` `React` `Node.js` `Express` `MongoDB` `Python` `Java` `C++` `SQL` `Git`
-
----
-
+###  Tech Stack
+ 
+<div align="center">
+Languages & Frontend
+ 
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,redux,bootstrap,tailwind" />
+</p>
+Backend, Databases & Tools
+ 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,figma,vscode" />
+</p>
+</div>
+ 
 ### GitHub Stats
-
+ 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Praveenramisetti76&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenramisetti76&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+</p>
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenramisetti76&theme=tokyonight&hide_border=true&background=0D1117&stroke=00bfff&ring=00bfff&fire=00bfff" alt="GitHub Streak"/>
+</p>
+
+### Activity Graph
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=3&section=header&animation=blink" width="80%">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenramisetti76&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
