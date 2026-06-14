@@ -13,17 +13,6 @@
 ### About
  
 Final-year Computer Science student with interests in Full Stack Development  AIML Data Science.
- 
-**Experience**
- 
-| Organization | Role |
-|---|---|
-| Moody's Coorporation | Technology Intern  |
-| Infosys Springboard 6.0 | Web Developer-Team Lead |
-| EduBot Pvt. Ltd. | Project Intern |
-| Addwise Innovation Technologies | Project Intern |
-| GSSoC '25 | Campus Ambassodor & Contributor |
- 
 
 ###  Tech Stack
  
